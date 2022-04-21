@@ -78,7 +78,7 @@
         <httpcore.version>4.4.1</httpcore.version>
         <junit.version>4.12</junit.version>
         <mysql.connector.version>5.1.34</mysql.connector.version>
-        <slf4j.api.version>1.7.5</slf4j.api.version>
+        <slf4j.api.version>1.7.36</slf4j.api.version>
         <slf4j.log4j12.version>1.7.5</slf4j.log4j12.version>
         <commons.collections.version>3.2.2</commons.collections.version>
         <commons.httpclient>3.0.1</commons.httpclient>
