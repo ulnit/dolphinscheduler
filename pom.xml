@@ -80,7 +80,7 @@
         <jacoco.version>0.8.8</jacoco.version>
         <maven.deploy.skip>false</maven.deploy.skip>
         <cobertura-maven-plugin.version>2.7</cobertura-maven-plugin.version>
-        <auto-service.version>1.0.1</auto-service.version>
+        <auto-service.version>1.1.1</auto-service.version>
         <jacoco.skip>false</jacoco.skip>
         <maven-jar-plugin.version>3.2.0</maven-jar-plugin.version>
         <exec-maven-plugin.version>3.0.0</exec-maven-plugin.version>
@@ -608,7 +608,7 @@
                         <eclipse>
                             <file>style/spotless_dolphinscheduler_formatter.xml</file>
                         </eclipse>
-                        <removeUnusedImports />
+                        <removeUnusedImports/>
                         <importOrder>
                             <file>style/eclipse.importorder</file>
                         </importOrder>
@@ -655,7 +655,7 @@
                         <excludes>
                             <exclude>**/.github/**/*.md</exclude>
                         </excludes>
-                        <flexmark />
+                        <flexmark/>
                     </markdown>
                     <upToDateChecking>
                         <enabled>true</enabled>
@@ -675,7 +675,7 @@
                 <artifactId>cobertura-maven-plugin</artifactId>
                 <version>${cobertura-maven-plugin.version}</version>
                 <configuration>
-                    <check />
+                    <check/>
                     <aggregate>true</aggregate>
                     <outputDirectory>./target/cobertura</outputDirectory>
                     <encoding>${project.build.sourceEncoding}</encoding>
