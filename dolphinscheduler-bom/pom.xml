@@ -84,7 +84,7 @@
         <commons-math3.version>3.1.1</commons-math3.version>
         <error_prone_annotations.version>2.5.1</error_prone_annotations.version>
         <hibernate-validator.version>6.2.2.Final</hibernate-validator.version>
-        <aws-sdk.version>1.12.300</aws-sdk.version>
+        <aws-sdk.version>1.12.787</aws-sdk.version>
         <aliyun-sdk-oss.version>3.15.1</aliyun-sdk-oss.version>
         <joda-time.version>2.10.13</joda-time.version>
         <okhttp.version>3.14.9</okhttp.version>
@@ -98,7 +98,7 @@
         <snakeyaml.version>1.33</snakeyaml.version>
         <htrace.version>4.1.1</htrace.version>
         <datasync.version>2.17.282</datasync.version>
-        <springdoc-openapi-ui.version>1.6.9</springdoc-openapi-ui.version>
+        <springdoc-openapi-ui.version>1.7.0</springdoc-openapi-ui.version>
         <aspectj.version>1.9.7</aspectj.version>
         <zt-zip.version>1.15</zt-zip.version>
         <trino-jdbc.version>402</trino-jdbc.version>
@@ -106,11 +106,11 @@
         <redshift-jdbc42.version>2.1.0.9</redshift-jdbc42.version>
         <aws-java-sdk-redshift.version>1.12.300</aws-java-sdk-redshift.version>
         <azure-resourcemanager.version>2.21.0</azure-resourcemanager.version>
-        <azure-resourcemanager-datafactory.version>1.0.0-beta.19</azure-resourcemanager-datafactory.version>
+        <azure-resourcemanager-datafactory.version>1.0.0</azure-resourcemanager-datafactory.version>
         <snowflake-jdbc.version>3.13.10</snowflake-jdbc.version>
         <google-cloud-storage.version>2.18.0</google-cloud-storage.version>
         <sshd.version>2.8.0</sshd.version>
-        <fabric8.client.version>6.0.0</fabric8.client.version>
+        <fabric8.client.version>7.0.0</fabric8.client.version>
         <casdoor.version>1.6.0</casdoor.version>
     </properties>
 
